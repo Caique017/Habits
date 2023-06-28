@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./web/src/assets/logo.svg" alt="Logo" width="300"/>
+  <img src="./assets/logo.svg" alt="Logo" width="300"/>
 </p>
 <h3 align="center">
 You are in control of your routine!
