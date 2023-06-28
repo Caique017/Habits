@@ -88,10 +88,10 @@ Also it's nice to have an editor to work with the code like [VSCode](https://cod
 
 ```bash
 # Clone this repository
-$ git clone git@github.com:MrRioja/nlw-setup.git
+$ git clone git@github.com:Caique017/Habits.git
 
 # Access project folder in terminal/cmd
-$ cd nlw-setup
+$ cd Habits
 
 # Go to server folder
 $ cd server
@@ -113,10 +113,10 @@ $ yarn dev
 
 ```bash
 # Clone this repository
-$ git clone git@github.com:MrRioja/nlw-setup.git
+$ git clone git@github.com:Caique017/Habits.git
 
 # Access project folder in terminal/cmd
-$ cd nlw-setup
+$ cd Habits
 
 # Go to web folder
 $ cd web
@@ -138,10 +138,10 @@ $ yarn dev
 
 ```bash
 # Clone this repository
-$ git clone git@github.com:MrRioja/nlw-setup.git
+$ git clone git@github.com:Caique017/Habits.git
 
 # Access project folder in terminal/cmd
-$ cd nlw-setup
+$ cd Habits
 
 # Go to mobile folder
 $ cd mobile
